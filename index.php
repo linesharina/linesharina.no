@@ -4,66 +4,33 @@
 ?>
 <main id="innhold">
 	<header>
-		<h2>Viktige artikler</h2>
+		<h2>Utvalgte prosjekter</h2>
 	</header>
 	<section class="articles">
 		<article>
-			<img src="img/wordpress.jpg" alt="Logo: Wordpress">
+			<img src="img/gourmethuset.png" alt="Gourmethuset.no">
 			<div class="article-content">
-				<h3>Wordpress</h3>
-				<p>Brukerveiledning for Wordpress installasjon og testing av systemet</p>
+				<h3>gourmethuset.no</h3>
 				<div class="article-read-more">
-					<a href="wordpress.html">Mer om Wordpress</a>
+					<a href="wordpress.html">Les mer</a>
 				</div>
 			</div>
 		</article>
 		<article>
-			<img src="img/cms.png" alt="Illustrasjon: CMS-systemer">
+			<img src="img/lydiaodegard.png" alt="lydiaodegard.no">
 			<div class="article-content">
-				<h3>CMS-systemer</h3>
-				<p>Fordeler og ulemper ved CMS-systemer</p>
+				<h3>lydiaodegard.no</h3>
 				<div class="article-read-more">
-					<a href="cms-systemer.html">Mer om CMS-systemer</a>
+					<a href="cms-systemer.html">Les mer</a>
 				</div>
 			</div>
 		</article>
 		<article>
-			<img src="img/enheter.jpg" alt="Foto: Forskjellige enheter">
+			<img src="img/linesharina.png" alt="linesharina.no">
 			<div class="article-content">
-				<h3>Responsivt design</h3>
-				<p>Egen løsning, utfordringer og problemer</p>
+				<h3>linesharina.no</h3>
 				<div class="article-read-more">
-					<a href="responsivt-design.html">Mer om responsivt design</a>
-				</div>
-			</div>
-		</article>
-		<article>
-			<img src="img/universell-utforming.jpg" alt="Illustrasjon: universell utforming ">
-			<div class="article-content">
-				<h3>Universell utforming</h3>
-				<p>Beskrivelse, utfordringer og problemer.</p>
-				<div class="article-read-more">
-					<a href="universell-utforming.html">Mer om Universell utforming</a>
-				</div>
-			</div>
-		</article>
-		<article>
-			<img src="img/mamp-logo.png" alt="Foto: MAMP logo">
-			<div class="article-content">
-				<h3>MAMP</h3>
-				<p>Enkel brukermanual for hvordan man installerer MAMP</p>
-				<div class="article-read-more">
-					<a href="mamp.html">Mer om MAMP-installasjon</a>
-				</div>
-			</div>
-		</article>
-		<article>
-			<img src="img/github.png" alt="Foto: Github-maskot">
-			<div class="article-content">
-				<h3>Git/Github</h3>
-				<p>Beskrivelse av Git og Github, fordeler og mine tanker</p>
-				<div class="article-read-more">
-					<a href="git.html">Mer om Git/Github</a>
+					<a href="responsivt-design.html">Les mer</a>
 				</div>
 			</div>
 		</article>

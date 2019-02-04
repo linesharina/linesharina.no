@@ -8,14 +8,15 @@
 		<button id="nav-btn">Meny</button>
 		<a href="index.php">Hjem</a>
 		<a href="artikkel-mal.php">Artikkel</a>
+		<a href="artikkel-mal.php">Om meg</a>
+		<a href="artikkel-mal.php">Kontakt</a>
 		<ul>
 			<li class="dropdown">
-				<button>Oblig 2</button>
+				<button>Utvalgte prosjekter</button>
 				<ul>
-					<li><a href="skisser.html">Skisser</a></li>
-					<li><a href="git.html">Git/Github</a></li>
-					<li><a href="mediatyper.html">Media typer</a></li>
-					<li><a href="css-layouts.html">CSS Layouts</a></li>
+					<li><a href="skisser.html">gourmethuset.no</a></li>
+					<li><a href="git.html">lydiaodegard.no</a></li>
+					<li><a href="mediatyper.html">linesharina.no</a></li>
 				</ul>
 			</li>
 		</ul>
